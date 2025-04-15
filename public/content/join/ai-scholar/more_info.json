@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "title": "Learn More About the AI Scholar Program",
+  "description": "The AISP Graduate Degree is a highly competitive, 20-23-month graduate degree program for Active Component officers focused primarily on senior first lieutenants and junior captains, but senior captains and majors may apply. The program requires officers to serve a two-year follow-on utilization tour in the AI2C AI Factory, or at a location at the direction of the AI2C Director. The program provides selected officers opportunities for one of three graduate degree opportunities: Data Engineering, Data Analytics, or Autonomous System Engineering. AI2C’s Academic Success Assessment will determine course discipline.",
+  "buttonText": "FY25 Broadening Opportunity Program Catalog (CaC Req)",
+  "buttonLink": "https://armyeitaas.sharepoint-mil.us/:b:/r/sites/AFC-AI2C/Shared%20Documents/FY%2025%20BOP%20Catalog%20(Approved_31%20May%2024).pdf?csf=1&web=1&e=OTHlua",
+  "newPage": true,
+  "widthClass": "max-w-full",
+  "marginClass": "mb-0",
+  "titleMargin": "mb-0",
+  "buttonColor": "#269AFF",
+  "buttonTextColor": "#fff"
+}

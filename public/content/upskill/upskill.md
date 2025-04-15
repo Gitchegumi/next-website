@@ -1,0 +1,3 @@
+# Artificial Intelligence Integration Center Upskilling Opportunities
+
+The Army Artificial Intelligence Integration Center (AI2C) provides multiple resources for Army Units and individual Army Leaders seeking to enhance their individual and collective capabilities through upskilling opportunities. See below for detailed information on available training programs, skill development initiatives, and professional growth opportunities designed to equip personnel with cutting-edge knowledge in data management, data-enhanced decision making, AI fundamentals, and other emerging technologies. Whether units are looking to improve technical expertise, enhance mission readiness, or explore new career pathways, AI2C can assist with multiple tailored educational programs.

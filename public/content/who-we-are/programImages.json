@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "src": "/assets/images/ai_tech_program.webp",
+    "alt": "AI Technician Program",
+    "title": "AI Technician Program",
+    "subtitle": "The Army Artificial Intelligence Technician Program is an immersive 36-month program that combines a 32-week Artificial Intelligence Cloud Administration, Programming with Python, Data Engineering and other certifications at Carnegie Mellon University in Pittsburgh, Pennsylvania with a 24-month hands on experience, project-based learning with A2IC.",
+    "width": 350,
+    "height": 180
+  },
+  {
+    "id": 2,
+    "src": "/assets/images/ai_scholar_program.webp",
+    "alt": "AI Scholars Program",
+    "title": "AI Scholars Program",
+    "subtitle": "The competitive Artificial Intelligence Scholars Program consists of 22-month Master's Degree and 36-month PhD programs for Active Component Officers.  PhD and graduate degree studies are in data analytics, data engineering, and autonomous systems engineering. Upon completion, the program requires selected officers to serve a follow-on utilization broadening assignment in AI2C.",
+    "width": 350,
+    "height": 180
+  },
+  {
+    "id": 3,
+    "src": "/assets/images/ddl_course.jpg",
+    "alt": "Data Driven Leaders Course",
+    "title": "Data Driven Leaders Course",
+    "subtitle": "The DDL course is a weeklong, in person, executive education program presented by Carnegie Mellon University's Heinz College of Information Systems, Public Policy and Management. DDL covers the key areas of data management, data science, decision making, emerging technology, change management, data privacy and security.",
+    "width": 350,
+    "height": 180
+  }
+]

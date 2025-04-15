@@ -1,0 +1,14 @@
+{
+    "title": "AI Scholars Program Application Form",
+    "description": [
+        "The FY25 application window is closed, but feel free to prepare for FY26!",
+        "Click <a href=\"https://armyeitaas.sharepoint-mil.us/:b:/r/sites/AFC-AI2C/Shared%20Documents/BOP%20Resume%20Template%20(FY25).pdf?csf=1&web=1&e=FPUtQL\" target=\"_blank\">here</a> (*CaC Reg*) to get the resume template."
+    ],
+    "buttonText": "Get the Application Form (CaC Req)",
+    "buttonLink": "https://armyeitaas.sharepoint-mil.us/:b:/r/sites/AFC-AI2C/Shared%20Documents/BOP%20Application%20(FY25).pdf?csf=1&web=1&e=lP2YEh",
+    "newPage": true,
+    "buttonColor": "#fff",
+    "buttonTextColor": "black",
+    "titleMargin": "mb-0",
+    "marginClass": "mb-0"
+}

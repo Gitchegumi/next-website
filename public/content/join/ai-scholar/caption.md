@@ -1,0 +1,1 @@
+View of downtown Pittsburgh, overlooking this iconic bridge. Image Credit (2024).

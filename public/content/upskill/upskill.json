@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "AI-101 Course",
+    "content": {
+      "type": "CustomSection",
+      "props": {
+        "description": "The AI-101 Course provides foundational AI education for service members. Participants learn AI fundamentals, setting the conditions for a data-driven organization, and practical applications of Army AI tools like Army Vantage (data lake) and CamoGPT. The course provides oversight to AI2C and how the Center's Lines of Effort directly impact the Army's drive towards modernization. Participants will gain insight on the opportunities AI2C provides to educate service members on data science and how to use existing AI capabilities to enhance their mission accomplishment.",
+        "buttonText": "Ask About This Course",
+        "buttonLink": "#",
+        "widthClass": "md:w-4/5",
+        "marginClass": "mb-0",
+        "titleMargin": "mb-0"
+      }
+    },
+    "imageOnLeft": false,
+    "imageComponent": {
+      "type": "OutlinedBox",
+      "props": {
+        "headerText": "AI-101 Information",
+        "content": [
+          "Something relevant",
+          "Something else relevant",
+          "More relevant information"
+        ]
+      }
+    },
+    "marginClass": "mb-0",
+    "imageOnBottomSmall": true
+  },
+  {
+    "id": 2,
+    "title": "AI Users Course",
+    "content": {
+      "type": "CustomSection",
+      "props": {
+        "description": "The AI2C AI Users Course provides foundational AI education for service members, civilians, and senior leaders, regardless of technical background. Participants learn AI fundamentals, common myths, and practical applications of Army AI tools like CamoGPT. The course is tailored to the needs of the requesting unit, offering both leadership-focused and hands-on workforce training. Senior leaders gain strategic insights into AI implementation, while workforce participants apply AI capabilities in real-world scenarios. Contact AI2C to schedule a session and equip your team with essential AI knowledge.",
+        "buttonText": "Ask About This Course",
+        "buttonLink": "#",
+        "widthClass": "w-full",
+        "titleMargin": "mb-0"
+      }
+    },
+    "imageOnLeft": false,
+    "imageComponent": {
+      "type": "OutlinedBox",
+      "props": {
+        "headerText": "AI Users Course Information",
+        "content": [
+          "Something important",
+          "More information if available"
+        ]
+      }
+    },
+    "marginClass": "mb-0",
+    "imageOnBottomSmall": true
+  }
+]

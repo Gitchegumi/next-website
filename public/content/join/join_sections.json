@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "AI Technician Program",
+    "content": {
+      "type": "CustomSection",
+      "props": {
+        "description": "The Army Artificial Intelligence Technician Program is an immersive 36-month program that includes one year of academic instruction and two years of hands-on experience at AI2C in Pittsburgh, PA. AI Technicians receive world-class instruction from CMU faculty in topics including Cloud Administration, Python Programming, and Data Engineering. The program seeks service members who have demonstrated outstanding promotion potential. Officers (commissioned / warrant) and noncommissioned officers looking be the front-runners for preparing the operational force for AI-enabled capabilities are encouraged to apply for the AI Technician Program.",
+        "buttonText": "Learn About Program",
+        "buttonLink": "/join/ai-technician",
+        "widthClass": "md:w-4/5",
+        "marginClass": "mb-0",
+        "titleMargin": "mb-0"
+      }
+    },
+    "imageOnLeft": false,
+    "imageComponent": {
+      "type": "OutlinedBox",
+      "props": {
+        "headerText": "Information for AI Technitian Applications",
+        "content": [
+          "Portal Closed until 01 May 2025",
+          "Applications will be accepted from 01 May 2025 to 30 June 2025",
+          "Elligible Ranks: SGT-SFC, CW2-CW3, and 1LT-MAJ"
+        ]
+      }
+    },
+    "marginClass": "mb-0",
+    "imageOnBottomSmall": true
+  },
+  {
+    "id": 2,
+    "title": "AI Scholar Program",
+    "content": {
+      "type": "CustomSection",
+      "props": {
+        "description": "The competitive Artificial Intelligence Scholars Program consists of 22-month Master's Degree and 36-month PhD programs for Active Component Officers.  PhD and graduate degree studies are in data analytics, data engineering, and autonomous systems engineering. Upon completion, the program requires selected officers to serve a follow-on utilization broadening assignment in Army Futures Command, Army Artificial Intelligence Integration Center (AI2C).",
+        "buttonText": "Learn About Program",
+        "buttonLink": "/join/ai-scholar",
+        "widthClass": "w-full",
+        "titleMargin": "mb-0"
+      }
+    },
+    "imageOnLeft": false,
+    "imageComponent": {
+      "type": "OutlinedBox",
+      "props": {
+        "headerText": "Information for AI Scholar Applications",
+        "content": [
+          "Currently Closed for FY25",
+          "More information will be released in the FY26 Broadening Opportunities Catalog"
+        ]
+      }
+    },
+    "marginClass": "mb-0",
+    "imageOnBottomSmall": true
+  }
+]

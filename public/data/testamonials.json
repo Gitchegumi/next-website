@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "quote": "Continued American leadership in Artificial Intelligence is of paramount importance to maintaining the economic and national security of the United States.",
+    "author": "President Donald J. Trump"
+  },
+  {
+    "id": 2,
+    "quote": "We must identify, recruit, and empower the best talent, and manage our information effectively, enabled by modern tools such as AI/ML and data analytics, made available at the right time, and delivered to the right people.",
+    "author": "Hon. Pete Hegseth, United States Secretary of Defense"
+  },
+  {
+    "id": 3,
+    "quote": "Carnegie Mellon is where soldiers are going through the academically rigorous process of becoming data scientists. We indisputably know we’re going to need to be able to code and build applications, we know we’re going to need data scientists, so we got started building [them]...",
+    "author": "GEN James Rainey, Commanding General of Army Futures Command"
+  },
+  {
+    "id": 4,
+    "quote": "Because Joint Force operations increasingly rely on data-driven technologies and integration of diverse data sources, the Department will implement institutional reforms that integrate our data, software, and artificial intelligence efforts and speed their delivery to the warfighter.",
+    "author": "2022 National Defense Strategy of the United States of America"
+  }
+]

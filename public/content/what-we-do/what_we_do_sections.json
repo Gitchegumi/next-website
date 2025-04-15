@@ -1,0 +1,40 @@
+[
+  {
+    "id": 0,
+    "title": "CamoGPT",
+    "content": "CamoGPT is a developer facing environment that is designed to provide generative AI models, agents and application hosting capabilities to all Soldiers, DA Civilians, and Contractors across all classification domains.",
+    "imageOnLeft": false,
+    "imageSrc": "/assets/images/CAMOGPT.png",
+    "imageAlt": "CamoGPT Placeholder",
+    "bulletPoints": [
+      "Delivers generative AI and scalable Large Language Model capabilities to the Army through a chat-based application. ",
+      "Currently deployed to NIPR (IL5 including CUI), and SIPR (IL6)"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "AIDE",
+    "content": "The Artificial Intelligence Development Environment (AIDE) is a collaborative workspace for data engineers and scientists with centralized access to data, code, and other tools necessary to develop AI/ML models. The platform allows sharing to accelerate algorithm development for faster delivery to the field. It is a platform for AI/ML development and includes the DevSecOps tools necessary for the AI Incubator to build, secure, and deploy minimum viable products at speed.",
+    "imageOnLeft": true,
+    "imageSrc": "/assets/images/AIDE Logo 1.png",
+    "imageAlt": "AIDE Placeholder",
+    "bulletPoints": [
+      "Built to be infrastructure agnostic.",
+      "Designed to make data-centric projects visible to the community.",
+      "The design and architecture of the AIDE is maintained dynamically as it is developed."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Griffin.ai",
+    "content": "This work designs an expeditionary AI stack to automate reporting and connect leaders with intuitive business intelligence and AI dashboards targeting tactical concerns. Provides capabilities to warfighters, maintainers, and commanders at all echelons for all platforms from the maintenance area to the Pentagon. It develops maintenance and supply data pipelines to directly connect units with curated data. Applications experiment with the optimal warfighter optimized front end and enterprise aggregated to increase readiness across Sustainment functions.",
+    "imageOnLeft": false,
+    "imageSrc": "/assets/images/Griffin ai logo_Full Body_Black.png",
+    "imageAlt": "Griffin.ai",
+    "bulletPoints": [
+      "Partner with Army organizations to apply AI to improve maintenance operations for the UH-60M",
+      "Leveraging lessons learned from other PMx/PPMx efforts",
+      "Plug and play opperation."
+    ]
+  }
+]

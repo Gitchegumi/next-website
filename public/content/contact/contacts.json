@@ -1,0 +1,26 @@
+[
+    {
+      "department": "Business Inquiries",
+      "contacts": [
+        "AI2C-example@army.mil"
+      ]
+    },
+    {
+      "department": "Workforce Development",
+      "contacts": [
+        "AI2C-example@army.mil"
+      ]
+    },
+    {
+        "department": "Collaboration",
+        "contacts": [
+            "AI2C-example@army.mil"
+        ]
+    },
+    {
+        "department": "AI2C Product Inquiries",
+        "contacts": [
+            "AI2C-example@army.mil"
+        ]
+    }
+]
