@@ -2,32 +2,33 @@
   {
     "id": 1,
     "src": "/assets/images/center_director.png",
-    "alt": "AI2C Director",
-    "title": "AI2C Director",
-    "link": "/pdfviewer?url=/assets/pdfs/AI2C Leadership Bios_Faber_JUL24.pdf&title=AI2C Director Bio",
-    "subtitle": "COL Isaac Faber"
+    "alt": "Executive Director",
+    "title": "Executive Director",
+    "link": "/pdfviewer?url=/assets/pdfs/AI2C Leadership Bios_Faber_JUL24.pdf&title=Executive Director Bio",
+    "subtitle": "Dr. Jane Doe"
   },
   {
     "id": 2,
     "src": "/assets/images/deputy_director.png",
-    "alt": "AI2C Deputy Director",
-    "title": "AI2C Deputy Director",
-    "link": "/pdfviewer?url=/assets/pdfs/COL Berriman Bio (JUL24).pdf&title=AI2C Deputy Director Bio",
-    "subtitle": "COL Michael Berriman"
+    "alt": "Deputy Director",
+    "title": "Deputy Director",
+    "link": "/pdfviewer?url=/assets/pdfs/COL Berriman Bio (JUL24).pdf&title=Deputy Director Bio",
+    "subtitle": "John Q. Public"
   },
   {
     "id": 3,
     "src": "/assets/images/incubator_director.png",
-    "alt": "AI2C Incubator Director",
-    "title": "AI2C Incubator Director",
-    "link": "/pdfviewer?url=/assets/pdfs/AI2C Leadership Bios Dirienzo OCT24.pdf&title=AI2C Incubator Director Bio",
-    "subtitle": "LTC Thomas Dirienzo"
+    "alt": "Innovation Lead",
+    "title": "Innovation Lead",
+    "link": "/pdfviewer?url=/assets/pdfs/AI2C Leadership Bios Dirienzo OCT24.pdf&title=Innovation Lead Bio",
+    "subtitle": "Alex Sample"
   },
   {
     "id": 4,
     "src": "/assets/images/CSM.png",
-    "alt": "AI2C Senior Enlisted Advisor",
-    "title": "AI2C Senior Enlisted Advisor",
-    "subtitle": "CSM Jared Ireland"
+    "alt": "Operations Advisor",
+    "title": "Operations Advisor",
+    "subtitle": "Taylor Placeholder"
   }
 ]
+

@@ -2,42 +2,42 @@
   {
     "id": 1,
     "title": "O&I",
-    "description": "Operations and Intelligence is responsible for constructing applications designed to assist command post operations and intelligence staff teams across all echelons.",
+    "description": "Focused on building tools and applications to support operational coordination and strategic analysis.",
     "image": "/assets/images/omni-image.png",
     "link": "/what-we-do/portfolios/#O&I"
   },
   {
     "id": 2,
     "title": "S&S",
-    "description": "Soldiers and Sustainment focuses on the development of applications tailored to the specific Soldiers' needs and the sustainment of the Army.",
+    "description": "Dedicated to developing solutions that support individual users and long-term sustainability efforts.",
     "image": "/assets/images/aide-image.png",
     "link": "/what-we-do/portfolios/#S&S"
   },
   {
     "id": 3,
     "title": "RAS",
-    "description": "Robotics and Autonomous Systems is tasked with overseeing human machine integration.",
+    "description": "Specializes in enhancing collaboration between human operators and autonomous systems.",
     "image": "/assets/images/soldier-readiness-image.jpg",
     "link": "/what-we-do/portfolios/#RAS"
   },
   {
     "id": 4,
     "title": "I&P",
-    "description": "Infrastructure and Platforms is responsible for ensuring that all AI Incubator personnel have the necessary hardware and software tools for their work.",
+    "description": "Ensures teams are equipped with the right infrastructure, platforms, and tools to support ongoing development.",
     "image": "/assets/images/I&P-home-page.webp",
     "link": "/what-we-do/portfolios/#I&P"
   },
   {
     "id": 5,
     "title": "SOF-C",
-    "description": "Special Operations Forces - Cyber is responsible for developing applications that support special operations and cyber forces.",
+    "description": "Supports specialized teams through the creation of secure and adaptable digital tools.",
     "image": "/assets/images/abstract-blue-background-with-concept-world-map-communication-vector.jpg",
     "link": "/what-we-do/portfolios/#S&C"
   },
   {
     "id": 6,
     "title": "OPS",
-    "description": "Military and Civilian staff (including operations, resource management, and security) that enable development and integration activities across AI2C.",
+    "description": "Enables integration and coordination across internal departments and development activities.",
     "image": "/assets/images/ddl_course.jpg",
     "link": "/join"
   }

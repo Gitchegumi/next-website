@@ -1,4 +1,5 @@
-<h2>Learn more about the future of our<br>Military and AI technology</h2>
+<h2>Explore the Future of Innovation and Technology</h2>
 
-AI2C creates AI technologies for the advancement of our military and the nation as a whole.
-To learn more <a href="/what-we-do">click here</a>.
+Our organization supports the development of advanced technologies to drive meaningful impact and progress.  
+To learn more, <a href="/what-we-do">click here</a>.
+

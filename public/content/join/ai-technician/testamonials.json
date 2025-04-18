@@ -1,17 +1,18 @@
 [
   {
     "id": 1,
-    "quote": "The AI Technician course has been an incredible opportunity to learn about industry standard Cloud Native practices that I would have otherwise had no exposure to.",
-    "author": "CW3 M. Lindholm | Cohort 4 AI Technician"
+    "quote": "This course was an incredible opportunity to learn about industry-standard Cloud Native practices I wouldn’t have encountered otherwise.",
+    "author": "Participant | Technology Program"
   },
   {
     "id": 2,
-    "quote": "I thoroughly enjoyed taking the AI Tech courses in Machine Learning, DevOps, Cloud Native, and Data Engineering. These experiences helped me build strong, practical skills and a solid technical understanding of modern tools and services.",
-    "author": "SSG Z. Coleman | Cohort 4 AI Technician"
+    "quote": "I really enjoyed the courses in Machine Learning, DevOps, Cloud Native, and Data Engineering. These experiences helped me build strong, practical skills and a solid technical foundation.",
+    "author": "Graduate | Technical Training Track"
   },
   {
     "id": 3,
-    "quote": "The AI Technician program was meticulously structured and user-friendly. The introductory subjects were accessible to beginners, and I had limited technical knowledge prior to enrolling. Since completing the program, I have gained a strong foundation in various AI-related topics and web applications development. I wholeheartedly recommend this program to any service member seeking to enhance their expertise in the field of artificial intelligence.",
-    "author": "1LT K. Lewis | Cohort 4 AI Technician"
+    "quote": "The program was thoughtfully designed and approachable. As someone with limited technical experience, I was able to build a strong foundation in AI topics and web development. I highly recommend it to anyone seeking to expand their expertise.",
+    "author": "Alumni | AI Foundations"
   }
 ]
+

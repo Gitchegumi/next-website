@@ -4,7 +4,7 @@
     "src": "/assets/images/ai_tech_program.webp",
     "alt": "AI Technician Program",
     "title": "AI Technician Program",
-    "subtitle": "The Army Artificial Intelligence Technician Program is an immersive 36-month program that combines a 32-week Artificial Intelligence Cloud Administration, Programming with Python, Data Engineering and other certifications at Carnegie Mellon University in Pittsburgh, Pennsylvania with a 24-month hands on experience, project-based learning with A2IC.",
+    "subtitle": "The AI Technician Program is a 36-month immersive learning experience that includes foundational training in cloud infrastructure, Python programming, and data engineering, followed by two years of hands-on, project-based work in applied AI environments.",
     "width": 350,
     "height": 180
   },
@@ -13,7 +13,7 @@
     "src": "/assets/images/ai_scholar_program.webp",
     "alt": "AI Scholars Program",
     "title": "AI Scholars Program",
-    "subtitle": "The competitive Artificial Intelligence Scholars Program consists of 22-month Master's Degree and 36-month PhD programs for Active Component Officers.  PhD and graduate degree studies are in data analytics, data engineering, and autonomous systems engineering. Upon completion, the program requires selected officers to serve a follow-on utilization broadening assignment in AI2C.",
+    "subtitle": "The AI Scholars Program offers advanced academic opportunities through 22-month master's and 36-month doctoral tracks. Participants specialize in areas such as data analytics, data engineering, and autonomous systems, with follow-on roles supporting enterprise innovation initiatives.",
     "width": 350,
     "height": 180
   },
@@ -22,8 +22,9 @@
     "src": "/assets/images/ddl_course.jpg",
     "alt": "Data Driven Leaders Course",
     "title": "Data Driven Leaders Course",
-    "subtitle": "The DDL course is a weeklong, in person, executive education program presented by Carnegie Mellon University's Heinz College of Information Systems, Public Policy and Management. DDL covers the key areas of data management, data science, decision making, emerging technology, change management, data privacy and security.",
+    "subtitle": "The DDL Course is a weeklong, in-person executive education program that covers key topics such as data science, decision-making, technology adoption, change management, and data privacy. It is designed for leaders seeking to drive innovation through data-informed strategies.",
     "width": 350,
     "height": 180
   }
 ]
+

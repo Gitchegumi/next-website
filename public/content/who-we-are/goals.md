@@ -1,3 +1,6 @@
-# AI2C Goals
+# Our Goals
 
-AI2C defaults to action, consistently seeking opportunities to solve problems and add value. Our approach is proactive, actively identifying challenges within our areas of influence and taking swift, deliberate steps to address them. Our ultimate goal is to be an elite Army unit that drives transformation through workforce development, seamless integration of activities, delivery of critical products, and effective governance.
+We lead with action—consistently seeking opportunities to solve meaningful problems and deliver real value. Our approach is proactive and purpose-driven, focused on identifying challenges within our sphere of influence and responding with swift, thoughtful solutions.
+
+Our long-term vision is to be a high-performing innovation unit that drives transformation through workforce development, integrated collaboration, the delivery of impactful products, and responsible, effective governance.
+

@@ -2,43 +2,44 @@
   {
     "id": 1,
     "src": "/assets/images/f&t.png",
-    "alt": "Foundations & Theory",
-    "title": "Foundations & Theory",
+    "alt": "Research and Learning Integration",
+    "title": "Research and Learning Integration",
     "link": "/what-we-do/portfolios#F&T"
   },
   {
     "id": 2,
     "src": "/assets/images/I&P.png",
-    "alt": "Infrastructure & Platforms",
-    "title": "Infrastructure & Platforms",
+    "alt": "Systems Infrastructure & DevOps",
+    "title": "Systems Infrastructure & DevOps",
     "link": "/what-we-do/portfolios#I&P"
   },
   {
     "id": 3,
     "src": "/assets/images/RAS.png",
-    "alt": "Robotics & Autonomous Systems",
-    "title": "Robotics & Autonomous Systems",
+    "alt": "Autonomous Systems Innovation",
+    "title": "Autonomous Systems Innovation",
     "link": "/what-we-do/portfolios"
   },
   {
     "id": 4,
     "src": "/assets/images/O&I.png",
-    "alt": "Operations & Intelligence",
-    "title": "Operations & Intelligence",
+    "alt": "Mission Intelligence Solutions",
+    "title": "Mission Intelligence Solutions",
     "link": "/what-we-do/portfolios#O&I"
   },
   {
     "id": 5,
     "src": "/assets/images/S&S.png",
-    "alt": "Soldiers & Sustainment",
-    "title": "Soldiers & Sustainment",
+    "alt": "Readiness and Resource Analytics",
+    "title": "Readiness and Resource Analytics",
     "link": "/what-we-do/portfolios#S&S"
   },
   {
     "id": 6,
     "src": "/assets/images/S&C.png",
-    "alt": "Special Operations & Cyber",
-    "title": "Special Operations & Cyber",
+    "alt": "Cyber Operations and Special Projects",
+    "title": "Cyber Operations and Special Projects",
     "link": "/what-we-do/portfolios#S&C"
   }
 ]
+

@@ -1,17 +1,18 @@
 {
-  "title-1": "Artificial Intelligence",
-  "title-2": "Integration Center",
-  "about-us": "About Us",
-  "careers": "Careers",
-  "foia": "FOIA",
-  "no-fear-act": "NO Fear Act",
-  "support": "Helpful Links",
-  "contact-us": "Contact Us",
+  "title-1": "Example Organization",
+  "title-2": "Innovation Division",
+  "about-us": "About",
+  "careers": "Opportunities",
+  "foia": "Freedom of Info",
+  "no-fear-act": "Equal Access Policy",
+  "support": "Resources",
+  "contact-us": "Contact",
   "privacy": "Privacy & Security",
   "privacy-policy": "Privacy Policy",
   "terms": "Plain Language",
   "accessibility": "Accessibility",
   "follow": "Follow Our Story",
-  "dod-iq": "DoD Information Quality",
-  "ai2c": "AI2C"
+  "dod-iq": "Information Quality",
+  "ai2c": "Our Team"
 }
+

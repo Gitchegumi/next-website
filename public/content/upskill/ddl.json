@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "title": "Data Driven Leadership Program",
+    "title": "Data-Driven Leadership Program",
     "content": {
       "type": "CustomSection",
       "props": {
         "description": [
-          "The Data Driven Leadership or DDL course is a weeklong, in person, executive education program presented by Carnegie Mellon University's Heinz College of Information Systems, Public Policy and Management. DDL covers the key areas of data management, data science, decision making, emerging technology, change management, data privacy and security - to assist Army leadership in the development of a robust enterprise data management and data science capability to improve decision-making.",
-          "**REQUIREMENTS:** The course is designed for GO, SES, O6, CSM or GS15/GS14. All others requesting the course must provide a command memorandum authorizing attendance."
+          "The Data-Driven Leadership course is a weeklong, in-person executive education program focused on data management, analytics, decision-making, emerging technologies, change management, and data privacy and security. It is designed to support leaders in developing enterprise-level strategies to enhance organizational decision-making and innovation.",
+          "**REQUIREMENTS:** This course is intended for senior professionals in leadership roles. Other applicants may require approval from their organization to attend."
         ],
         "buttonText": "Ask About This Course",
         "buttonLink": "#",
@@ -19,21 +19,21 @@
     "imageComponent": {
       "type": "OutlinedBox",
       "props": {
-        "headerText": "Data Driven Leadership Program FY25 Cohort Dates",
+        "headerText": "Program Dates (FY25 Cohorts)",
         "content": [
-          "- Dec. 9-13, 2024",
-          "- Jan. 27-31, 2025",
-          "- Feb. 24-28, 2025 (Acquisition Coded Personnel Only—sign up through AITAS)",
-          "- March 24-28, 2025",
-          "- April 14-18, 2025",
-          "- April 28-May 2, 2025",
-          "- June 9-13, 2025 ",
-          "- August 18-22, 2025",
-          "- Sept. 8-12, 2025 (Acquisition Coded Personnel Only—sign up through AITAS)",
-          "- Sept. 22-26, 2025 ",
-          "**2-day for SES/GOs:**",
-          "- Feb. 3-4, 2025",
-          "- August 14-15, 2025"
+          "- Dec. 9–13, 2024",
+          "- Jan. 27–31, 2025",
+          "- Feb. 24–28, 2025 (Specialized Track)",
+          "- March 24–28, 2025",
+          "- April 14–18, 2025",
+          "- April 28–May 2, 2025",
+          "- June 9–13, 2025",
+          "- August 18–22, 2025",
+          "- Sept. 8–12, 2025 (Specialized Track)",
+          "- Sept. 22–26, 2025",
+          "**2-Day Executive Sessions:**",
+          "- Feb. 3–4, 2025",
+          "- August 14–15, 2025"
         ]
       }
     },
@@ -43,3 +43,4 @@
     "imageOnBottomSmall": true
   }
 ]
+

@@ -5,7 +5,7 @@
     "content": {
       "type": "CustomSection",
       "props": {
-        "description": "Military staff opportunities at AI2C provide a way to contribute meaningfully to the mission without requiring technical expertise in cloud administration or software development. These roles support critical operations through leadership, logistics, policy development, training coordination, and strategic planning. By leveraging their military experience, personnel can help shape AI2C’s initiatives, enhance collaboration across units, and ensure the successful integration of emerging technologies into Army operations. Whether managing projects, facilitating training programs, or providing operational support, military staff play a vital role in advancing AI2C’s mission and strengthening the Army’s capabilities in intelligence and cyber operations.",
+        "description": "Staff opportunities provide ways to contribute meaningfully to organizational success without requiring a background in cloud administration or software development. These roles support critical operations through leadership, logistics, policy development, training coordination, and strategic planning. Individuals with prior experience in operations, management, or coordination can help drive new initiatives, foster collaboration across teams, and ensure the successful implementation of emerging technologies. Whether managing projects or facilitating programs, staff members play a vital role in enabling organizational progress.",
         "buttonText": "Get in Touch",
         "buttonLink": "#",
         "widthClass": "md:w-4/5",
@@ -19,10 +19,10 @@
       "props": {
         "headerText": "Staff Opportunities",
         "content": [
-          "S1, S2, S3, S4, S6",
+          "Operations Support",
           "Training Coordinator",
-          "Center Leadership",
-          "Incubator Leadership"
+          "Team Leadership",
+          "Program Oversight"
         ]
       }
     },
@@ -35,9 +35,9 @@
     "content": {
       "type": "CustomSection",
       "props": {
-        "description": "At AI2C, we take immense pride in working alongside our civilian counterparts, whose expertise and dedication are essential to our mission. Civilian opportunities within AI2C span a variety of roles, from program management and policy development to research, training, and operational support. These professionals bring valuable perspectives, technical proficiency, and institutional knowledge that enhance our ability to drive innovation and execute mission-critical initiatives. Whether supporting intelligence operations, shaping cybersecurity strategies, or streamlining logistics, civilians play a vital role in strengthening AI2C’s impact and advancing the Army’s capabilities in an ever-evolving landscape. Join us and be part of a team that values collaboration, excellence, and service to the nation.",
-        "buttonText": "Find us USAJOBS",
-        "buttonLink": "https://www.usajobs.gov/search/results/?l=&p=1&k=artificial%20intelligence%20integration%20center",
+        "description": "We value the unique skills and experience that civilian professionals bring to the mission. Civilian opportunities span a wide range of roles, including program coordination, policy development, research, training, and operational support. These team members contribute technical expertise, innovative thinking, and institutional insight that help drive meaningful progress. Whether you're supporting technology initiatives, streamlining logistics, or advising on strategy, civilian professionals play an essential role in shaping our future.",
+        "buttonText": "Find Openings",
+        "buttonLink": "#",
         "newPage": true,
         "widthClass": "md:w-4/5",
         "marginClass": "mb-0",
@@ -50,7 +50,7 @@
       "props": {
         "headerText": "Civilian Opportunities",
         "content": [
-          "Current open posistions can be listed here"
+          "Current open positions can be listed here"
         ]
       }
     },

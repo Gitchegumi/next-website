@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "AI Technician Program",
+    "title": "Technician Program",
     "content": {
       "type": "CustomSection",
       "props": {
-        "description": "The Army Artificial Intelligence Technician Program is an immersive 36-month program that includes one year of academic instruction and two years of hands-on experience at AI2C in Pittsburgh, PA. AI Technicians receive world-class instruction from CMU faculty in topics including Cloud Administration, Python Programming, and Data Engineering. The program seeks service members who have demonstrated outstanding promotion potential. Officers (commissioned / warrant) and noncommissioned officers looking be the front-runners for preparing the operational force for AI-enabled capabilities are encouraged to apply for the AI Technician Program.",
+        "description": "The Technology Technician Program is a 36-month initiative that includes one year of academic instruction and two years of practical experience. Participants receive instruction in topics such as Cloud Administration, Python Programming, and Data Engineering. The program seeks individuals who demonstrate strong potential for leadership and innovation in technical fields.",
         "buttonText": "Learn About Program",
         "buttonLink": "/join/ai-technician",
         "widthClass": "md:w-4/5",
@@ -17,11 +17,11 @@
     "imageComponent": {
       "type": "OutlinedBox",
       "props": {
-        "headerText": "Information for AI Technitian Applications",
+        "headerText": "Application Information",
         "content": [
-          "Portal Closed until 01 May 2025",
-          "Applications will be accepted from 01 May 2025 to 30 June 2025",
-          "Elligible Ranks: SGT-SFC, CW2-CW3, and 1LT-MAJ"
+          "Portal opens 01 May 2025",
+          "Applications accepted through 30 June 2025",
+          "Eligible Applicants: Entry to Mid-Level Professionals"
         ]
       }
     },
@@ -30,11 +30,11 @@
   },
   {
     "id": 2,
-    "title": "AI Scholar Program",
+    "title": "Scholar Program",
     "content": {
       "type": "CustomSection",
       "props": {
-        "description": "The competitive Artificial Intelligence Scholars Program consists of 22-month Master's Degree and 36-month PhD programs for Active Component Officers.  PhD and graduate degree studies are in data analytics, data engineering, and autonomous systems engineering. Upon completion, the program requires selected officers to serve a follow-on utilization broadening assignment in Army Futures Command, Army Artificial Intelligence Integration Center (AI2C).",
+        "description": "The competitive Scholar Program offers 22-month Master’s and 36-month PhD opportunities focused on data analytics, data engineering, and autonomous systems. Participants are expected to engage in a follow-on assignment supporting innovation and applied research upon completion.",
         "buttonText": "Learn About Program",
         "buttonLink": "/join/ai-scholar",
         "widthClass": "w-full",
@@ -45,10 +45,10 @@
     "imageComponent": {
       "type": "OutlinedBox",
       "props": {
-        "headerText": "Information for AI Scholar Applications",
+        "headerText": "Application Information",
         "content": [
-          "Currently Closed for FY25",
-          "More information will be released in the FY26 Broadening Opportunities Catalog"
+          "Currently closed for the upcoming cycle",
+          "Further details will be provided in the next program catalog"
         ]
       }
     },
@@ -56,3 +56,4 @@
     "imageOnBottomSmall": true
   }
 ]
+

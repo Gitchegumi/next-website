@@ -1,10 +1,18 @@
 # PRIVACY AND SECURITY NOTICE
 
-1.  The Army Artificial Intelligence Integration Center (AI2C) website is provided as a public service by AI2C.
-1.  Information presented on this service, not identified as protected by copyright, is considered public information and may be distributed or copied. Use of appropriate byline, photo, and image credits is requested.
-1.  For site management, information is collected for statistical purposes. This U.S. Government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
-1.  For site security purposes and to ensure that this service remains available to all users, software programs are employed to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
-1.  Except for authorized law enforcement investigations and national security purposes, no other attempts are made to identify individual users or their usage habits beyond DoD websites. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration approved records schedule.
-1.  Web measurement and customization technologies (WMCT) may be used on this site to remember your online interactions, to conduct measurement and analysis of usage, or to customize your experience. The Department of Defense does not use the information associated with WMCT to track individual user activity on the Internet outside of Defense Department websites, nor does it share the data obtained through such technologies, without your explicit consent, with other departments or agencies, unless directed to do so in statute, regulation, or Executive order. The Department of Defense does not keep a database of information obtained from the use of WMCT. General instructions for how you may opt out of some of the most commonly used WMCT is available at https://www.usa.gov/optout-instructions.
-1.  Unauthorized attempts to upload information or change information on this site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1987 and the National Information Infrastructure Protection Act (Section 1030 of Title 18, United States Code).
-2.  If you have any questions or comments about the information presented here, please forward them to the [AI2C Website Development Team](mailto:ai2cwebsitedevelopmentteam@army.mil).
+1. This website is provided as a public service by the hosting organization.
+
+2. Information presented on this site, unless otherwise noted, is considered public and may be distributed or copied. Proper attribution for bylines, photos, and image credits is requested.
+
+3. To support site management, certain data is collected for statistical analysis. These metrics help evaluate which content is most useful, inform technical improvements, and identify performance issues.
+
+4. For security purposes and to ensure continued availability, the system may monitor network traffic to detect unauthorized attempts to upload, modify, or otherwise damage content.
+
+5. Except where required by law, no effort is made to identify individual users or track their activity outside this website. Raw data logs are used solely for performance monitoring and are deleted according to approved data retention policies.
+
+6. Web measurement and customization technologies (WMCT) may be used to enhance your experience and analyze site usage. This site does not use such technologies to track users across unrelated websites, nor is the data shared without explicit consent unless required by law. You may find general opt-out instructions at [https://www.usa.gov/optout-instructions](https://www.usa.gov/optout-instructions).
+
+7. Unauthorized attempts to upload or alter content on this site are strictly prohibited and may be subject to legal action under applicable computer misuse laws.
+
+8. If you have questions or feedback about this notice, please contact the site administrator at [contact@example.com](mailto:contact@example.com).
+

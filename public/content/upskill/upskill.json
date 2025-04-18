@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "AI-101 Course",
+    "title": "AI Fundamentals Course",
     "content": {
       "type": "CustomSection",
       "props": {
-        "description": "The AI-101 Course provides foundational AI education for service members. Participants learn AI fundamentals, setting the conditions for a data-driven organization, and practical applications of Army AI tools like Army Vantage (data lake) and CamoGPT. The course provides oversight to AI2C and how the Center's Lines of Effort directly impact the Army's drive towards modernization. Participants will gain insight on the opportunities AI2C provides to educate service members on data science and how to use existing AI capabilities to enhance their mission accomplishment.",
+        "description": "The AI Fundamentals Course offers introductory training in artificial intelligence, including core concepts, practical applications, and strategies for enabling a data-informed organization. Participants will explore use cases, organizational impact, and how existing technologies can support their goals. This course is ideal for individuals new to AI who want to better understand its value and integration into daily operations.",
         "buttonText": "Ask About This Course",
         "buttonLink": "#",
         "widthClass": "md:w-4/5",
@@ -17,11 +17,11 @@
     "imageComponent": {
       "type": "OutlinedBox",
       "props": {
-        "headerText": "AI-101 Information",
+        "headerText": "Course Information",
         "content": [
-          "Something relevant",
-          "Something else relevant",
-          "More relevant information"
+          "Introductory AI concepts",
+          "Organizational strategy alignment",
+          "Real-world examples and exercises"
         ]
       }
     },
@@ -30,11 +30,11 @@
   },
   {
     "id": 2,
-    "title": "AI Users Course",
+    "title": "Applied AI Workshop",
     "content": {
       "type": "CustomSection",
       "props": {
-        "description": "The AI2C AI Users Course provides foundational AI education for service members, civilians, and senior leaders, regardless of technical background. Participants learn AI fundamentals, common myths, and practical applications of Army AI tools like CamoGPT. The course is tailored to the needs of the requesting unit, offering both leadership-focused and hands-on workforce training. Senior leaders gain strategic insights into AI implementation, while workforce participants apply AI capabilities in real-world scenarios. Contact AI2C to schedule a session and equip your team with essential AI knowledge.",
+        "description": "The Applied AI Workshop delivers foundational AI education tailored for professionals across roles and levels. The course addresses common misconceptions, explains real-world applications, and provides both strategic and hands-on learning tracks. Sessions can be customized to meet the needs of leadership teams or technical workforces, offering flexible delivery and actionable insights into practical AI implementation.",
         "buttonText": "Ask About This Course",
         "buttonLink": "#",
         "widthClass": "w-full",
@@ -45,10 +45,10 @@
     "imageComponent": {
       "type": "OutlinedBox",
       "props": {
-        "headerText": "AI Users Course Information",
+        "headerText": "Workshop Information",
         "content": [
-          "Something important",
-          "More information if available"
+          "Overview of practical AI use",
+          "Adaptable to technical and non-technical teams"
         ]
       }
     },
@@ -56,3 +56,4 @@
     "imageOnBottomSmall": true
   }
 ]
+

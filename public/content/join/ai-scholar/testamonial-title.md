@@ -1,3 +1,4 @@
-# AI Scholar Program Testimonial
+# Scholar Program Testimonial
 
-These are some highlighted AI Scholar Program individuals and their successes from the course provided at AI2C.
+Here are a few highlights from participants in the Scholar Program, showcasing their experiences and successes throughout the course.
+

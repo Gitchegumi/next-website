@@ -1,26 +1,27 @@
 [
-    {
-      "department": "Business Inquiries",
-      "contacts": [
-        "AI2C-example@army.mil"
-      ]
-    },
-    {
-      "department": "Workforce Development",
-      "contacts": [
-        "AI2C-example@army.mil"
-      ]
-    },
-    {
-        "department": "Collaboration",
-        "contacts": [
-            "AI2C-example@army.mil"
-        ]
-    },
-    {
-        "department": "AI2C Product Inquiries",
-        "contacts": [
-            "AI2C-example@army.mil"
-        ]
-    }
+  {
+    "department": "Business Inquiries",
+    "contacts": [
+      "contact@example.com"
+    ]
+  },
+  {
+    "department": "Training & Development",
+    "contacts": [
+      "contact@example.com"
+    ]
+  },
+  {
+    "department": "Partnerships",
+    "contacts": [
+      "contact@example.com"
+    ]
+  },
+  {
+    "department": "Product Support",
+    "contacts": [
+      "contact@example.com"
+    ]
+  }
 ]
+

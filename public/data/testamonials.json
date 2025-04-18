@@ -1,22 +1,23 @@
 [
   {
     "id": 1,
-    "quote": "Continued American leadership in Artificial Intelligence is of paramount importance to maintaining the economic and national security of the United States.",
-    "author": "President Donald J. Trump"
+    "quote": "Continued leadership in artificial intelligence is essential to ensuring both economic resilience and national security.",
+    "author": "Executive Statement, 2020"
   },
   {
     "id": 2,
-    "quote": "We must identify, recruit, and empower the best talent, and manage our information effectively, enabled by modern tools such as AI/ML and data analytics, made available at the right time, and delivered to the right people.",
-    "author": "Hon. Pete Hegseth, United States Secretary of Defense"
+    "quote": "We must recruit and empower top talent while enabling them with modern tools like AI, machine learning, and real-time data analytics.",
+    "author": "Technology Policy Brief, 2021"
   },
   {
     "id": 3,
-    "quote": "Carnegie Mellon is where soldiers are going through the academically rigorous process of becoming data scientists. We indisputably know we’re going to need to be able to code and build applications, we know we’re going to need data scientists, so we got started building [them]...",
-    "author": "GEN James Rainey, Commanding General of Army Futures Command"
+    "quote": "This institution is where professionals are being trained through rigorous programs to become data scientists—ready to code, build, and deploy applications that will shape tomorrow’s challenges.",
+    "author": "Senior Innovation Leader"
   },
   {
     "id": 4,
-    "quote": "Because Joint Force operations increasingly rely on data-driven technologies and integration of diverse data sources, the Department will implement institutional reforms that integrate our data, software, and artificial intelligence efforts and speed their delivery to the warfighter.",
-    "author": "2022 National Defense Strategy of the United States of America"
+    "quote": "As operations increasingly depend on data-driven technologies, we must unify our data, software, and AI efforts to accelerate delivery of mission-ready capabilities.",
+    "author": "Strategic Technology Directive, 2022"
   }
 ]
+

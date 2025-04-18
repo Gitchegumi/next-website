@@ -1,3 +1,4 @@
-# AI Technician Program Testimonial
+# Technician Program Testimonials
 
-These are some highlighted AI Technician Program individuals and their successes from the course provided at AI2C.
+Here are highlights from participants in the Technician Program, sharing their experiences and accomplishments throughout the course.
+

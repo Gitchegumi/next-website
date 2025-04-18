@@ -1,3 +1,4 @@
-# Artificial Intelligence Community Educational Opportunities
+# Technology Community Educational Opportunities
 
-This page provides Soldiers and DA Civilians information and a gateway into the Artificial Intelligence Integration Center's (AI2C) educational and professional development opportunities in support of the United States Army Artificial Intelligence Strategy.
+This page provides information and access to educational and professional development programs designed to support innovation, technical skill-building, and workforce advancement in emerging technologies.
+

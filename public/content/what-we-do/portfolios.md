@@ -1,3 +1,4 @@
-## AI2C Portfolios
+## Project Portfolios
 
-The AI2C Incubator task organizes their personnel for minimum viable product (MVP) development into the following project portfolios:
+This incubator organizes its teams around the development of minimum viable products (MVPs) through the following focused project portfolios:
+

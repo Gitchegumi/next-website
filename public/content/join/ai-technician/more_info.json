@@ -1,9 +1,9 @@
 {
   "id": 1,
-  "title": "Location of the AI Technician Program",
-  "description": "The Artificial Intelligence Technician Program is taught at Carnegie Mellon University. Click the button below to access the AFC Emerging Technology Opportunities Catalog and learn about requirements for applying to the program!",
-  "buttonText": "FY25-26 AFC ETO Catalog (CaC req)",
-  "buttonLink": "https://armyeitaas.sharepoint-mil.us/:b:/r/sites/AFC-AI2C/Shared%20Documents/AFC%20Emerging%20Technology%20Opportunities%20Catalog%20FY25-26%20Final.pdf?csf=1&web=1&e=gMYXrd",
+  "title": "Program Location & Application Info",
+  "description": "This technology program is hosted in partnership with a leading academic institution. Click the button below to view the Emerging Technology Opportunities Catalog and learn about application requirements.",
+  "buttonText": "Opportunities Catalog",
+  "buttonLink": "#",
   "newPage": true,
   "widthClass": "md:w-4/5",
   "marginClass": "mb-0",
@@ -11,3 +11,4 @@
   "buttonColor": "#269AFF",
   "buttonTextColor": "#fff"
 }
+

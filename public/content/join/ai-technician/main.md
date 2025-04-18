@@ -1,24 +1,15 @@
-# Artificial Intelligence Technician Program
+# Technology Technician Program
 
-The Army Artificial Intelligence Technician (AI Technician) Program is
-an intensive 36-month program that includes one year of academic instruction and two
-years of hands-on experience at AI2C in Pittsburgh, PA. AI Technicians receive world-
-class instruction from CMU faculty in topics including Cloud Administration, Python 
-Programming, and Data Engineering. The program seeks Service Members who have 
-demonstrated outstanding promotion potential. Officers (commissioned / warrant) and 
-noncommissioned officers striving to be front-runners in preparing the operational
-force for AI-enabled capabilities are encouraged to apply for the AI Technician
-Program. Commanders and supervisors are also encouraged to submit their best
-candidates for this opportunity based on the outstanding potential and aptitude for
-service in the emerging technology environment.
+The Technology Technician Program is a 36-month initiative that includes one year of academic instruction followed by two years of hands-on, real-world experience. Participants receive high-quality instruction from expert faculty in subjects such as Cloud Administration, Python Programming, and Data Engineering. The program is designed for individuals who demonstrate exceptional potential for growth and leadership in technology-driven environments. Applicants from a variety of professional backgrounds are encouraged to apply, and supervisors are encouraged to recommend top candidates based on performance and aptitude.
 
-## Artificial Intelligence Technician Program Course Overview
+## Program Course Overview
 
-Students in the AI Technician Program will develop the technical expertise necessary to deploy, manage, and sustain AI/ML software products in operational environments. Through a combination of academic instruction and hands-on experience, participants will gain proficiency in:
+Students in the Technician Program will gain the technical skills required to deploy, manage, and support AI/ML systems in operational settings. Through a mix of academic learning and practical experience, participants will build competency in:
 
-- Cloud Administration – Configuring and maintaining cloud-based environments to support AI/ML applications.
-- Practical Programming with Python – Developing, troubleshooting, and optimizing AI/ML software solutions.
-- Data Engineering – Managing, processing, and structuring data pipelines to ensure reliable AI/ML performance.
-- Cloud DevOps – Implementing automation, monitoring, and deployment strategies to sustain AI/ML capabilities in dynamic environments.
+- **Cloud Administration** – Setting up and maintaining cloud infrastructure to support AI/ML workloads.
+- **Practical Programming with Python** – Writing, debugging, and optimizing code for data-driven applications.
+- **Data Engineering** – Building and managing reliable pipelines to ensure consistent data delivery for machine learning.
+- **Cloud DevOps** – Applying automation, deployment, and monitoring practices to enable sustainable AI/ML operations.
 
-By the end of the program, AI Technicians will be equipped to operationalize AI/ML technologies, ensuring their successful deployment and sustainment in support of Army missions.
+Upon completion, graduates will be equipped to apply modern data and AI practices to real-world challenges, supporting innovation and impact within their organizations.
+

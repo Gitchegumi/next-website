@@ -1,9 +1,10 @@
 {
   "actionText": "Take Action",
-  "newsTitle": "AI2C Related News",
-  "latestNews": "Latest News",
+  "newsTitle": "Related News",
+  "latestNews": "Latest Updates",
   "newsDate": "August 13, 2024",
-  "newsDescription": "Check out the latest content from AI2C!",
+  "newsDescription": "Check out the latest content and updates!",
   "readMore": "Read More",
-  "otherStories": "View Other Stories"
+  "otherStories": "View More Stories"
 }
+
