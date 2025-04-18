@@ -1,43 +1,43 @@
 [
   {
     "id": 1,
-    "title": "O&I",
-    "description": "Focused on building tools and applications to support operational coordination and strategic analysis.",
+    "title": "Strategy & Coordination",
+    "description": "Focused on developing applications that improve cross-functional collaboration and high-level analysis.",
     "image": "/assets/images/omni-image.png",
     "link": "/what-we-do/portfolios/#O&I"
   },
   {
     "id": 2,
-    "title": "S&S",
-    "description": "Dedicated to developing solutions that support individual users and long-term sustainability efforts.",
+    "title": "User Experience & Support",
+    "description": "Dedicated to building tools that enhance individual usability and long-term sustainability of systems.",
     "image": "/assets/images/aide-image.png",
     "link": "/what-we-do/portfolios/#S&S"
   },
   {
     "id": 3,
-    "title": "RAS",
-    "description": "Specializes in enhancing collaboration between human operators and autonomous systems.",
+    "title": "Human-AI Collaboration",
+    "description": "Specializes in solutions that bridge human workflows and autonomous technologies.",
     "image": "/assets/images/soldier-readiness-image.jpg",
     "link": "/what-we-do/portfolios/#RAS"
   },
   {
     "id": 4,
-    "title": "I&P",
-    "description": "Ensures teams are equipped with the right infrastructure, platforms, and tools to support ongoing development.",
+    "title": "Tech Foundations",
+    "description": "Ensures teams have the infrastructure and development platforms needed to support rapid iteration.",
     "image": "/assets/images/I&P-home-page.webp",
     "link": "/what-we-do/portfolios/#I&P"
   },
   {
     "id": 5,
-    "title": "SOF-C",
-    "description": "Supports specialized teams through the creation of secure and adaptable digital tools.",
+    "title": "Secure Innovation",
+    "description": "Creates resilient, flexible digital tools tailored to dynamic or sensitive use cases.",
     "image": "/assets/images/abstract-blue-background-with-concept-world-map-communication-vector.jpg",
     "link": "/what-we-do/portfolios/#S&C"
   },
   {
     "id": 6,
-    "title": "OPS",
-    "description": "Enables integration and coordination across internal departments and development activities.",
+    "title": "Operations Enablement",
+    "description": "Drives organizational support and alignment across development, logistics, and execution layers.",
     "image": "/assets/images/ddl_course.jpg",
     "link": "/join"
   }
