@@ -5,8 +5,8 @@ import HeaderContainer from "@/components/Header";
 import FooterContainer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Artificial Intelligence Integration Center",
-  description: "The website for AI2C",
+  title: "Next.js Portfolio Site",
+  description: "A showcase of scalable static sites built with modern tooling.",
   other: {
     "Content-Security-Policy": `
       default-src 'self';
