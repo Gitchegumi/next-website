@@ -14,7 +14,7 @@ export const metadata: Metadata = {
       style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
       img-src 'self' data:;
       font-src 'self' data: https://fonts.googleapis.com https://fonts.gstatic.com;
-      connect-src 'self';
+      connect-src 'self' https:;
       frame-ancestors 'none';
       form-action 'self';
     `
